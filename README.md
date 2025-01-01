@@ -72,7 +72,7 @@ This repository contains a chatbot support system built using PHP, HTML, CSS, an
     ```
 
 ## Author
-- **Name:**Newton Guilherme Altnetter
+- **Name:** Newton Guilherme Altnetter
 
 
 ---
